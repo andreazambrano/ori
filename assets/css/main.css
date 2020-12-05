@@ -368,6 +368,7 @@ a.scroll-top {
   border: 0;
   margin: 0;
   overflow: visible;
+  margin-top: -11px;
   padding: 0;
   width: auto;
   height: auto; }
